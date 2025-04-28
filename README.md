@@ -2,8 +2,6 @@
 
 This script helps you quickly check all your Aptos wallets for Aptos ONE Mainnet Anniversary 2023 NFT on <b>[graffio.art](https://graffio.art/).</b>
 
-### Made by <b>[isartsem](https://t.me/isartem)</b>
-
 ## Setup checker
 
 1) Download ZIP and extract it to a folder
