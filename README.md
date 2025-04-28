@@ -1,4 +1,4 @@
-# Aptos ONE Mainnet Anniversary 2023 NFTs Checker
+# Aptos ONE Mainnet Anniversary 2025 NFTs Checker
 
 This script helps you quickly check all your Aptos wallets for Aptos ONE Mainnet Anniversary 2023 NFT on <b>[graffio.art](https://graffio.art/).</b>
 
